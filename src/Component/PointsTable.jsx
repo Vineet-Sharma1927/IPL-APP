@@ -34,7 +34,7 @@ function PointsTable() {
             <div className=' w-full p-4 sm:w-[100%] md:w-[100%]'>
 
                 <table className='w-full '>
-                    <tr className='text-center w-full font-bold text-xl h-[60px]'>
+                    <tr className='text-center w-full font-bold text-lg h-[60px]'>
                         <td className='text-left w-[40%]'>Team</td>
                         <td>M</td>
                         <td>W</td>
